@@ -12,20 +12,10 @@ This eyewear is made of 100% natural pinewood, recycle material and environment 
  
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 
 ### Motivation 
@@ -61,7 +51,7 @@ Using the infrared technology with a resolution of 16x120 and lenses resolution 
  
 Using 5.2 Bluetooth compatibility. The glass frame is made of pine wood which water and dust resistant and environmentally friendly. CV2020 is using an infrared thermometer or a none contact laser thermometer that provide an accurate information. 
  
- ###  Skills Required
+###  Skills Required
  
 •	Glasses terminology knowledge 
 •	Pine wood and how to assemble  
