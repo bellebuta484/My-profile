@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Project Idea
 
 You can use the [editor on GitHub](https://github.com/bellebuta484/demo2020_AT1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
