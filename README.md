@@ -8,13 +8,7 @@ An eyewear is essential item for those who has visual problems but if we could m
  
 I’d like to introduce the body temperature detecting glasses to be called CV2020.  These glasses made to detect the human body temperature from 36.5c to 42.0c. This is hoping to help minimise the risk of contracting novel virus called SARS-CoV-2 or Covid-19 and increase the awareness in our community. 
  
-This eyewear is made of 100% natural pinewood, recycle material and environment friendly. It comes in variety of styles and colors. 
- 
-
-
-
-
-[Link](url) and ![Image](src)
+This eyewear is made of 100% natural pinewood, recycle material and environment friendly. It comes in variety of styles and colors
 
 
 
